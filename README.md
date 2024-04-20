@@ -56,8 +56,7 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT
-![image](https://github.com/SivaramakrishnanBaskar/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/119476322/792f6e7a-18d9-40a3-87fb-1ae4bd6ae85a)
-![image](https://github.com/SivaramakrishnanBaskar/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/119476322/58acd027-7fa5-4a89-9b9d-77039cb757ca)
+![image](https://github.com/SivaramakrishnanBaskar/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/119476322/289693bf-5278-4ff3-9f93-77592d5129f5)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
