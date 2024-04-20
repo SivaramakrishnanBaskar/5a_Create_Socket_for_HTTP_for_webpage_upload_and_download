@@ -55,7 +55,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 
 ```
-## OUTPUT
+## Output
 ![image](https://github.com/SivaramakrishnanBaskar/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/119476322/289693bf-5278-4ff3-9f93-77592d5129f5)
 
 ## Result
